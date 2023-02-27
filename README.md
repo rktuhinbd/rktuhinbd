@@ -1,5 +1,5 @@
 <h1 align="center"> Hello 👋, I'm Md. Rejaul Karim</h1>
-<h3 align="center">A mobile application developer</h3>
+<h3 align="center">Associate Software Engineer (Android), 10 Minute School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rktuhinbd&label=Profile%20views&color=0e75b6&style=flat" alt="rktuhinbd" /> </p>
 
