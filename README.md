@@ -1,7 +1,7 @@
-<h1 align="center"> Assalamualaikum, I'm Md. Rejaul Karim</h1>
+<h1 align="center"> Hello 👋, I'm Md. Rejaul Karim</h1>
 <h3 align="center">A mobile application developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibaenur&label=Profile%20views&color=0e75b6&style=flat" alt="shakibaenur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rktuhinbd&label=Profile%20views&color=0e75b6&style=flat" alt="rktuhinbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rktuhinbd" alt="rktuhinbd" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rktuhinbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakiba-e-nur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rktuhinbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rktuhinbd" height="30" width="40" /></a>
 <a href="https://medium.com/@rktuhinbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rktuhinbd" height="30" width="40" /></a>
 </p>
 
