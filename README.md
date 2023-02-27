@@ -10,7 +10,7 @@ Welcome to my profile! Currently I'm working at 10 Minute School (https://10minu
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rktuhinbd" alt="rktuhinbd" /></a> </p>
 
-- 🔭 I’m currently working on **a native android projects**
+- 🔭 I’m currently working on **Native Android** projects
 
 - 🌱 I’m currently learning **new technologies on mobile application development**
 
