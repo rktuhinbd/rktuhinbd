@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a native android projects**
 
-- 🌱 I’m currently learning **new technologies on mobile development field**
+- 🌱 I’m currently learning **new technologies on mobile application development**
 
 - 💬 Ask me about **android, java, kotlin**
 
