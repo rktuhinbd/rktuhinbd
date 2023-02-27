@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **new technologies on mobile application development**
 
-- 💬 Ask me about **android, java, kotlin**
+- 💬 Ask me about **Android, JAVA, Kotlin**
 
 - 📫 How to reach me **rktuhinbd@gmail.com**
 
