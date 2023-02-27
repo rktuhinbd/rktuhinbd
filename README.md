@@ -1,10 +1,14 @@
 <h1 align="center"> Hello 👋, I'm Md. Rejaul Karim</h1>
-Welcome to my profile! Currently i'm working at [10 Minute School](https://10minuteschool.com) as an Associate Software Engineer, Native Android Developer. Thanks for visiting and I'd love to connect!
+
+Welcome to my profile! Currently I'm working at 10 Minute School (https://10minuteschool.com) as an Associate Software Engineer, Native Android Developer. Thanks for visiting and I'd love to connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rktuhinbd)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/rktuhinbd)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rktuhinbd)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rktuhinbd) <p align="left"> <img src="https://komarev.com/ghpvc/?username=rktuhinbd&label=Profile%20views&color=0e75b6&style=flat" alt="rktuhinbd" /> </p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rktuhinbd) 
+![Profile Views](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rktuhinbd) 
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rktuhinbd&label=Profile%20views&color=0e75b6&style=flat" alt="rktuhinbd" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rktuhinbd" alt="rktuhinbd" /></a> </p>
 
