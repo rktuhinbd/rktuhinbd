@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rktuhinbd" alt="rktuhinbd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rktuhinbd" target="blank"><img src="https://img.shields.io/linkedin/connect/rktuhinbd?logo=linkedin&style=for-the-badge" alt="rktuhinbd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rktuhinbd" target="blank"><img src="https://img.shields.io/twitter/follow/rktuhinbd?logo=twitter&style=for-the-badge" alt="rktuhinbd" /></a> </p>
 
 - 🔭 I’m currently working on **a native android projects**
 
