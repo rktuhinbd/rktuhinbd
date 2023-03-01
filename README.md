@@ -2,6 +2,10 @@
 
 Welcome to my profile! Currently I'm working at 10 Minute School (https://10minuteschool.com) as an Associate Software Engineer, Native Android Developer. Thanks for visiting and I'd love to connect!
 
+<h4>
+  <a href="https://rktuhinbd.github.io/resume/">Check My Resume <img />
+ &nbsp;<p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rktuhinbd)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/rktuhinbd)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rktuhinbd)
