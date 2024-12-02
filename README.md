@@ -14,11 +14,11 @@ Welcome to my profile! I'm currently working at 10 Minute School (https://10minu
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rktuhinbd" alt="rktuhinbd" /></a> </p>
 
-- 🔭 I’m currently working on **Native Android** projects
+- 🔭 I’m currently working on **Android** projects
 
 - 🌱 I’m currently learning **new technologies on mobile application development**
 
-- 💬 Ask me about **Android, JAVA, Kotlin**
+- 💬 Ask me about **Android, Kotlin, JAVA**
 
 - 📫 How to reach me **rktuhinbd@gmail.com**
 
