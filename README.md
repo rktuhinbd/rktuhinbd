@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, I'm Md. Rejaul Karim</h1>
 
-Welcome to my profile! I'm currently working at 10 Minute School (https://10minuteschool.com) as a Specialist, Engineer designated Mobile Application Developer. Thanks for visiting, and I'd love to connect!
+Welcome to my profile! I work at 10 Minute School (https://10minuteschool.com) as a Specialist, Engineer designated Mobile Application Developer. Thanks for visiting, and I'd love to connect!
 
 <h4>
   <a href="https://rktuhinbd.github.io/resume/">Check My Resume<img />
