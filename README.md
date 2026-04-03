@@ -18,9 +18,9 @@ Android Developer with 7+ years of experience building scalable, high-performanc
 
 - 🌱 I’m currently learning **new technologies on mobile application development**
 
-- 💬 Ask me about **Android, Kotlin, JAVA**
+- 💬 Ask me about **Android, Flutter, Kotlin, JAVA, Dart**
 
-- 📫 How to reach me **rktuhinbd@gmail.com**
+- 📫 How to reach me **rejaul.karim.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
