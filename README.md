@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, I'm Md. Rejaul Karim</h1>
 
-Android Developer with 6+ years of experience building scalable, high-performance mobile applications. I specialize in Kotlin, Jetpack Compose, and modern Android architecture (MVVM, Clean Architecture).
+Android Developer with 7+ years of experience building scalable, high-performance mobile applications. I specialize in Kotlin, Jetpack Compose, and modern Android architecture (MVVM, Clean Architecture).
 
 <h4>
   <a href="https://rktuhinbd.github.io/resume/">Check My Resume<img />
