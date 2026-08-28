@@ -25,7 +25,7 @@
 
 | Domain | Capabilities |
 |---|---|
-| **Architectural Paradigms** | Clean Architecture · MVVM · MVI · SOLID · Repository Pattern · Modularization · Offline-First Design |
+| **Architectural Paradigms** | Clean Architecture · MVVM · SOLID · Repository Pattern · Modularization · Offline-First Design |
 | **Reactive UI & Modern Stack** | Jetpack Compose · StateFlow · SharedFlow · Material 3 · Compose Design Systems · XML→Compose Migration |
 | **Hardware & Edge Integration** | ESC/POS Command Protocol · Bluetooth / USB / Network Thermal Printers · Sunmi Devices · Barcode Scanning · KDS Real-Time Routing |
 | **On-Device ML & AI** | ML Kit (Face Detection · OCR · NID Verification) · TFLite Inference · Reusable `.aar` ML SDKs · LLM Integration (OpenAI · Gemini · Claude) |
